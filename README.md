@@ -98,5 +98,5 @@ These capabilities represent the ongoing research and development direction of t
 
 Rep AI is developed as a Final Year Project at FAST-NUCES.
 
-Developer: Abdul Wahab
-Degree: B.S. Cyber Security, FAST-NUCES
+**Developer:** Abdul Wahab  
+**Degree:** B.S. Cyber Security, FAST-NUCES
